@@ -5,3 +5,23 @@ transcript
 vsim.wlf
 *.vcd
 *.wlf
+
+# Quartus
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+hte.se
+*.jdi
+*.pin
+*.qws
+*.rpt
+*.smsg
+*.sof
+*.pof
+*.rbf
+*.ekp
+*.esf
+*.dpf
+*.asm.rpt
+*.sta.rpt
